@@ -1,0 +1,16 @@
+#wrapper{
+    width: 60%; padding: 10px; margin: 30px;
+    background-image: url(../images/rungthong.jpeg);
+}
+p{
+    color: aliceblue;
+    text-align: justify;
+   
+}
+h2{
+    text-align: center; color: beige;
+}
+#conten1{
+    font-style: italic; font-weight: bold;
+    background-color: chocolate;
+}
